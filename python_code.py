@@ -55,7 +55,7 @@ from azure.ai.formrecognizer import DocumentAnalysisClient
 from azure.core.credentials import AzureKeyCredential
 
 endpoint = "https://visitors500description.cognitiveservices.azure.com/"
-key = "o248N9AKfxG8He7OWsAwFT65XuXsdJsCra1t7MAuFJu8wjjW42DHJQQJ99BGACYeBjFXJ3w3AAALACOG8dls"
+key = "ooooooo"
 
 client = DocumentAnalysisClient(endpoint, AzureKeyCredential(key))
 
